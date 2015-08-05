@@ -6,6 +6,8 @@ Don't edit this file manually! Instead you should generate it by using:
 Name
 ====
 
+[![Join the chat at https://gitter.im/amangarg/lua-nginx-module](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/amangarg/lua-nginx-module?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ngx_lua - Embed the power of Lua into Nginx
 
 *This module is not distributed with the Nginx source.* See [the installation instructions](#installation).
